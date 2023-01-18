@@ -1,10 +1,10 @@
-brew update && brew install azure-cli
+# Create ARO Cluster in RHPDS
+
+`brew update && brew install azure-cli`
 
 Created RHPDS Azure Blank Open Environment
 
-Login to az login using email instructions
-
-https://learn.microsoft.com/en-us/azure/openshift/tutorial-create-cluster
+Login to az login and create cluster using email instructions
 
 Get Kubeadmin credentials
 ```
